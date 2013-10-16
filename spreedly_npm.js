@@ -1,1 +1,1 @@
-Spreedly = Npm.require('spreedly-node');
+Spreedly = Npm.require('spreedly-node').Spreedly;
