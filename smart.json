@@ -1,0 +1,8 @@
+{
+  "name": "spreedly-meteor",
+  "description": "Meteor bindings for Spreedly payment tokenization and charge processing",
+  "homepage": "https://github.com/andreioprisan/spreedly-meteor",
+  "author": "Andrei Oprisan (http://andrei.oprisan.com)",
+  "version": "1.0.0",
+  "git": "http://github.com/andreioprisan/spreedly-meteor.git"
+}
