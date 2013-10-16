@@ -4,7 +4,8 @@ Package.describe({
 
 Npm.depends({ 
 	"spreedly-node": "0.1.0",
-	"node-expat": "2.0.0"
+	"node-expat": "2.0.0",
+	"xml2json": "0.3.2"
 });
 
 Package.on_use(function(api, where) {
