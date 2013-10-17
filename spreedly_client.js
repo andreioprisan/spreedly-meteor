@@ -1,0 +1,1 @@
+Spreedly = Meteor.require('spreedly-node');
