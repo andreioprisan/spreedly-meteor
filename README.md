@@ -5,7 +5,7 @@ This smart package exposes the official Spreedly API from the node.js npm packag
 
 This Meteor package is licensed under the MIT license.
 
-This uses version 0.1.0 of the Twilio node.js package and the new meteor 0.6.5.1 npm bindings.
+This uses version 0.1.0 of the Spreedly node.js package and the new meteor 0.6.10+ npm bindings.
 
 #### To Install
 
