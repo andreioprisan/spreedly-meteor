@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Meteor bindings for Spreedly payment tokenization and charge processing"
+  summary: "Meteor bindings for Spreedly payment tokenization and charge processing",
   "version": "1.0.7",
   "git": "https://github.com/andreioprisan/spreedly-meteor.git",
   "name": "andreioprisan:spreedly-meteor"
